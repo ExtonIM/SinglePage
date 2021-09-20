@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Abril Fatface', cursive;
-    background-image: url(/image/background-body.svg);
+    background-image: url(image/background-body.svg);
 }
 
 h1 {
@@ -108,20 +108,20 @@ nav {
 }
 
 .img-bckg {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/image/slide1.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(image/slide1.png);
     background-repeat: no-repeat;
     background-size:cover;
     height: 90vh;
 }
 
 .img-bckg_2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/image/slide2.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(image/slide2.png);
     background-repeat: no-repeat;
     background-size:cover;
     height: 90vh;
 }
 .img-bckg_3 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/image/slide3.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(image/slide3.png);
     background-repeat: no-repeat;
     background-size:cover;
     height: 90vh;
@@ -159,7 +159,7 @@ nav {
 }
 
 .back-sheet {
-    background-image: url(/image/about-back.png);
+    background-image: url(image/about-back.png);
     background-repeat:no-repeat;
     background-position-x: 26px;
     background-position-y: 52px;
@@ -272,7 +272,7 @@ nav {
 }
 
 .menu-restauracji {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/image/menu-restauracji.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(image/menu-restauracji.png);
     background-attachment:initial;
     background-repeat:no-repeat;
     background-size: cover;
@@ -337,7 +337,7 @@ nav {
     height: 540px;
     padding-left: 65px;
     padding-right: 65px;
-    background-image: url(/image/background-body.svg);
+    background-image: url(image/background-body.svg);
 }
 .contact-position {
     padding-top: 53px;
@@ -382,7 +382,7 @@ nav {
 }
 
 .form-check-input:checked[type=checkbox] {
-    background-image: url(/image/check.svg);
+    background-image: url(image/check.svg);
 }
 .form-check-input:checked {
     background-color: transparent;
@@ -581,7 +581,7 @@ footer {
     }
 
     .navbar-collapse {
-        background-image: url(/image/background-body.svg);
+        background-image: url(image/background-body.svg);
     }
     
     .container-xxl {
@@ -679,7 +679,7 @@ footer {
     }
     
     .navbar-collapse {
-        background-image: url(/image/background-body.svg) !important;
+        background-image: url(image/background-body.svg) !important;
         z-index: 999;
     }
 
